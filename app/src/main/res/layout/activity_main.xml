@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+<LinearLayout android:id="@+id/lnl"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:layout_below="@+id/textView"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#0d0505">
+
+
+
+    <TextView
+        android:text="INSTANT FUN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="combo breaker"
+        android:id="@+id/b1"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="darth vader"
+        android:id="@+id/b2"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b2"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="doh"
+        android:id="@+id/b3"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b3"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FATALITY"
+        android:id="@+id/b4"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GAAAAY"
+        android:id="@+id/b5"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b5"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HADOUKEN"
+        android:id="@+id/b6"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b6"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HOMER BOCADILLO"
+        android:id="@+id/b7"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b7"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IM BATMAN"
+        android:id="@+id/b8"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b8"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ITS A TRAP"
+        android:id="@+id/b9"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b9"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="STARS WARS NOOOO"
+        android:id="@+id/b10"
+        android:layout_gravity="center_horizontal"
+        android:onClick="b10"/>
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+</ScrollView>
+
+
+
+
+
+
+
+
+
